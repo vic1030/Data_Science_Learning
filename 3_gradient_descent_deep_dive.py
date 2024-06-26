@@ -8,7 +8,6 @@ Original file is located at
 
 # Gradient descent in depth
 
-*Fraida Fund*
 """
 
 import numpy as np
